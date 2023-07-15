@@ -1,6 +1,8 @@
 # Gender-and-Age-Detection-System
 Gender &amp; Age Detection System created using CNN Algorithm. 
 
+### This Project is my 1st project as a Data Science Intern at CodeClause.
+
 * Using the Convolutional Neural Networks (CNN) algorithm, I developed a robust system that can accurately predict the gender and age of a person based on their images. 📸💡
 
 * During this project, I dove deep into the world of image datasets, leveraging CNN's powerful capabilities.
